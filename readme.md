@@ -16,8 +16,7 @@ This project monitors the stock levels of products in real-time, providing alert
 
 1. **Clone the repository:**
    ```bash
-   git clone https://your-repository-url
-   cd your-project-directory
+   git clone https://github.com/Michal0536/Nike-Instore-Monitor
    ```
 
 2. **Install dependencies:**
